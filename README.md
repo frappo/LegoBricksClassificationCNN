@@ -9,13 +9,13 @@ A deep model that consists of 2 Convolutional Layers, to extract and recognize i
 ## Dataset
 Data I have used:
 
-_The archive will be uploaded in the next commit_
+https://drive.google.com/file/d/1VyPhAiXr2kpMxB5VbzcuFMRjwSEEVfnl/view?usp=sharing
 
 These data are taken from Kaggle:
 
 https://www.kaggle.com/datasets/joosthazelzet/lego-brick-images
 
-The data splitting is directly performed on the script, within the data trasform process.
+The data splitting process is directly performed on the script, within the data trasform process.
 
 ## Usage
 
