@@ -23,8 +23,9 @@ Upload the dataset provided and the .ipynb notebook on your Google Drive.
 
 Open the .ipynb notebook on Google Colaboratory, and you will be able to run the cells.
 
-You will find all the models in the same jupyter notebook.
+You will find all the networks on the same jupyter notebook.
 
 ## Contacts
 Francesco Pappalardo - pappalardofg@outlook.it
+
 Vanessa Perticone - vanessaperticone12@gmail.com
