@@ -25,7 +25,7 @@ Upload the dataset provided and the .ipynb notebook on your Google Drive.
 
 Open the .ipynb notebook on Google Colaboratory, and you will be able to run the cells.
 
-You will find all the networks on the same jupyter notebook.
+You will find all the networks on the same jupyter notebook. In order to have a better automated experience, the script is built with the scope to train all the networks and then to compare them and choose the one who gives you the best Test Accuracy and evaluate it through a Confusion Matrix.
 
 ## Contacts
 Francesco Pappalardo - pappalardofg@outlook.it
