@@ -5,7 +5,7 @@ Neural Network built for Image Classification Task d
 ## Description
 
 A deep model that consists of 2 Convolutional Layers, to extract and recognize increasingly complex features, followed by a Fully Connected Layer and a Classifier to perform multiclass classification (see Fig. 1).  Initially, input data flows trough the convolutional layers, to extract image features. Then the extracted features are provided to the fully connected layers and to the classifier, which predicts the class outcome among one of the 16 possible classes.
-<img width="1050" alt="LegoBricksNet" src="https://user-images.githubusercontent.com/64035952/164647136-8016ce0b-ed6d-45f2-b1c4-e084e210f638.png">
+<img width="1050" alt="LegoBricksNet" src="https://user-images.githubusercontent.com/64035952/164648784-2a6c9af4-851c-4850-85c4-2c9b2669a654.png">
 
 
 ## Dataset
